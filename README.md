@@ -16,16 +16,15 @@ To address these problems, the following approach was taken:
 2. Data Cleaning: Processed and cleaned the data to ensure accuracy, handling missing values and inconsistencies.
 
 3. Dashboard Creation: Developed a Power BI dashboard with the following visualizations:
-
-a) Total Employees: Displayed the total number of employees in the organization.
-b) Average Standard Hours: Analyzed average standard hours worked by employees.
-c) Percentage of Salary Hike Per Year: Visualized the percentage increase in salary per year.
-d) Gender Distribution: Showed the total number of male and female employees, along with their respective percentages.
-e) Employee Distribution by Department and Gender: Displayed the number of employees in each department, segmented by gender.
-f) Employee Distribution by Overtime and Gender: Analyzed the number of employees who work overtime, segmented by gender.
-g) Employee Distribution by Job Role: Visualized the number of employees in each job role.
-h) Employee Distribution by Attrition: Displayed the total number of employees who have left the organization.
-i) Employee Distribution by Business Travel: Showed the number of employees who travel for business.
+    a) Total Employees: Displayed the total number of employees in the organization.
+    b) Average Standard Hours: Analyzed average standard hours worked by employees.
+    c) Percentage of Salary Hike Per Year: Visualized the percentage increase in salary per year.
+    d) Gender Distribution: Showed the total number of male and female employees, along with their respective percentages.
+    e) Employee Distribution by Department and Gender: Displayed the number of employees in each department, segmented by gender.
+    f) Employee Distribution by Overtime and Gender: Analyzed the number of employees who work overtime, segmented by gender.
+    g) Employee Distribution by Job Role: Visualized the number of employees in each job role.
+    h) Employee Distribution by Attrition: Displayed the total number of employees who have left the organization.
+    i) Employee Distribution by Business Travel: Showed the number of employees who travel for business.
 4. Analysis and Insights: Conducted analysis based on the visualizations to derive insights into attrition patterns, demographic trends, and potential areas for improvement in employee retention strategies.
 
 Conclusion
