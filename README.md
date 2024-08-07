@@ -6,7 +6,7 @@ Employee attrition is a critical issue for many organizations, impacting product
 1. What is the overall distribution of employees by gender, department, job role, and business travel?
 2. How do factors such as standard hours, salary hikes, overtime, and business travel relate to attrition rates?
 3. What are the demographic trends and patterns in attrition, including gender and department-based analysis?
-Approach
+APPROACH:
 To address these problems, the following approach was taken:
 
 Data Collection: Gathered data related to employee demographics, job roles, standard hours, salary hikes, overtime, business travel, and attrition.
