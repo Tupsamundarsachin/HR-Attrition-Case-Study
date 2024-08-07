@@ -13,9 +13,9 @@ To address these problems, the following approach was taken:
 
 1. Data Collection: Gathered data related to employee demographics, job roles, standard hours, salary hikes, overtime, business travel, and attrition.
 
-Data Cleaning: Processed and cleaned the data to ensure accuracy, handling missing values and inconsistencies.
+2. Data Cleaning: Processed and cleaned the data to ensure accuracy, handling missing values and inconsistencies.
 
-Dashboard Creation: Developed a Power BI dashboard with the following visualizations:
+3. Dashboard Creation: Developed a Power BI dashboard with the following visualizations:
 
 Total Employees: Displayed the total number of employees in the organization.
 Average Standard Hours: Analyzed average standard hours worked by employees.
