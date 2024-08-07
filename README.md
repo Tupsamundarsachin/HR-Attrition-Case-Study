@@ -3,9 +3,9 @@ This project involves analyzing employee attrition within a company using a Powe
 
 Problem Statement
 Employee attrition is a critical issue for many organizations, impacting productivity, morale, and costs. Understanding the factors contributing to attrition and analyzing employee demographics can help HR departments develop strategies to improve retention and address underlying issues. This project aims to solve the following problems:
-What is the overall distribution of employees by gender, department, job role, and business travel?
-How do factors such as standard hours, salary hikes, overtime, and business travel relate to attrition rates?
-What are the demographic trends and patterns in attrition, including gender and department-based analysis?
+1. What is the overall distribution of employees by gender, department, job role, and business travel?
+2. How do factors such as standard hours, salary hikes, overtime, and business travel relate to attrition rates?
+3. What are the demographic trends and patterns in attrition, including gender and department-based analysis?
 Approach
 To address these problems, the following approach was taken:
 
