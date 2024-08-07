@@ -17,16 +17,16 @@ To address these problems, the following approach was taken:
 
 3. Dashboard Creation: Developed a Power BI dashboard with the following visualizations:
 
-Total Employees: Displayed the total number of employees in the organization.
-Average Standard Hours: Analyzed average standard hours worked by employees.
-Percentage of Salary Hike Per Year: Visualized the percentage increase in salary per year.
-Gender Distribution: Showed the total number of male and female employees, along with their respective percentages.
-Employee Distribution by Department and Gender: Displayed the number of employees in each department, segmented by gender.
-Employee Distribution by Overtime and Gender: Analyzed the number of employees who work overtime, segmented by gender.
-Employee Distribution by Job Role: Visualized the number of employees in each job role.
-Employee Distribution by Attrition: Displayed the total number of employees who have left the organization.
-Employee Distribution by Business Travel: Showed the number of employees who travel for business.
-Analysis and Insights: Conducted analysis based on the visualizations to derive insights into attrition patterns, demographic trends, and potential areas for improvement in employee retention strategies.
+a) Total Employees: Displayed the total number of employees in the organization.
+b) Average Standard Hours: Analyzed average standard hours worked by employees.
+c) Percentage of Salary Hike Per Year: Visualized the percentage increase in salary per year.
+d) Gender Distribution: Showed the total number of male and female employees, along with their respective percentages.
+e) Employee Distribution by Department and Gender: Displayed the number of employees in each department, segmented by gender.
+f) Employee Distribution by Overtime and Gender: Analyzed the number of employees who work overtime, segmented by gender.
+g) Employee Distribution by Job Role: Visualized the number of employees in each job role.
+h) Employee Distribution by Attrition: Displayed the total number of employees who have left the organization.
+i) Employee Distribution by Business Travel: Showed the number of employees who travel for business.
+4. Analysis and Insights: Conducted analysis based on the visualizations to derive insights into attrition patterns, demographic trends, and potential areas for improvement in employee retention strategies.
 
 Conclusion
 The HR Employee Attrition Analysis Dashboard provides a comprehensive view of employee demographics and attrition trends. By visualizing key metrics such as gender distribution, job roles, and standard hours, the dashboard helps HR departments understand the factors influencing employee attrition. This analysis is valuable for developing targeted retention strategies, improving employee satisfaction, and addressing potential issues within the organization.
