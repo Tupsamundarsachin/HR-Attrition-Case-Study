@@ -11,7 +11,7 @@ Employee attrition is a critical issue for many organizations, impacting product
 APPROACH:
 To address these problems, the following approach was taken:
 
-Data Collection: Gathered data related to employee demographics, job roles, standard hours, salary hikes, overtime, business travel, and attrition.
+1. Data Collection: Gathered data related to employee demographics, job roles, standard hours, salary hikes, overtime, business travel, and attrition.
 
 Data Cleaning: Processed and cleaned the data to ensure accuracy, handling missing values and inconsistencies.
 
