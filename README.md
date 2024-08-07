@@ -1,7 +1,7 @@
 # HR-Attrition-Case-Study
 This project involves analyzing employee attrition within a company using a Power BI dashboard. The dashboard provides insights into various factors related to employee demographics, job roles, and attrition rates.
 
-Problem Statement
+PROBLEM STATEMENT:
 Employee attrition is a critical issue for many organizations, impacting productivity, morale, and costs. Understanding the factors contributing to attrition and analyzing employee demographics can help HR departments develop strategies to improve retention and address underlying issues. This project aims to solve the following problems:
 1. What is the overall distribution of employees by gender, department, job role, and business travel?
 2. How do factors such as standard hours, salary hikes, overtime, and business travel relate to attrition rates?
