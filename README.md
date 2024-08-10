@@ -24,5 +24,11 @@ To address these problems, the following approach was taken:
     i) Employee Distribution by Business Travel: Showed the number of employees who travel for business.
 4. Analysis and Insights: Conducted analysis based on the visualizations to derive insights into attrition patterns, demographic trends, and potential areas for improvement in employee retention strategies.
 
+
+
+https://github.com/user-attachments/assets/e73b0075-ecb1-431b-913b-43c3e342f3e6
+
+
+
 CONCLUSION:
 The HR Employee Attrition Analysis Dashboard provides a comprehensive view of employee demographics and attrition trends. By visualizing key metrics such as gender distribution, job roles, and standard hours, the dashboard helps HR departments understand the factors influencing employee attrition. This analysis is valuable for developing targeted retention strategies, improving employee satisfaction, and addressing potential issues within the organization.
